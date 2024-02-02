@@ -55,3 +55,4 @@ pari-match-bet.in
 win.pari-match-bet.in
 pm-5753.com
 b-hls-10.doppiocdn.com
+warzone.ws
